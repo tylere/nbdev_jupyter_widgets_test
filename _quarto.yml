@@ -15,8 +15,8 @@ format:
     toc-depth: 4
 
 website:
-  title: "nbdev_jupyter_widgets_test"
-  site-url: "https://tylere.github.io/nbdev_jupyter_widgets_test/"
+  title: "nbdev-jupyter-widgets-test"
+  site-url: "https://tylere.github.io/nbdev-jupyter-widgets-test/"
   description: "Test out Jupyter widgets in nbdev v2"
   execute: 
     enabled: false
